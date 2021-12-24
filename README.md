@@ -1,1 +1,2 @@
-# Landing page using HTML, CSS, and Flexbox
+# Landing page for The Odin Project assignemnt
+Coded from scratch using HTML, CSS, and flexbox.
